@@ -1,0 +1,9 @@
+{
+  "name": "FrequencyWalkie",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/KubzCZ/FrequencyWalkie-KubzCZEdit",
+  "description": "This mod enhances the functionality of walkie-talkies in Lethal Company by enabling the use of multiple frequencies. Edited by KubzCZ",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
